@@ -14,7 +14,7 @@
     Express, Mongoose, MongoDB, JavaScript
 
   ## References
-  - Github: https://github.com/ForeytKL22/social-network-api
+  - Github: https://github.com/ForeytKL22/budget-tracker
   - Deployed site: https://shrouded-coast-07063.herokuapp.com/
   - Screenshot: ![Alt text](https://i.imgur.com/n8f4A7V.png "screenshot of Budget Tracker site") 
  
